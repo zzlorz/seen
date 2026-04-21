@@ -61,7 +61,7 @@ cd your-git-repo
 
 | **Key**      | **Action**                              |  |  |
 | -------------------- | ----------------------------------------------- | -- | -- |
-| **q, Ctrl+C**     | Quit                                          |
+| **q, ESC**     | Quit                                          |
 | **1 / 2** | Tab navigation (Files / Search / Git / Graph) |
 | **Tab**           | Switch focused panel                          |
 
