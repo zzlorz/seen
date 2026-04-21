@@ -1,0 +1,13 @@
+{
+  "name": "@seen-tui/cli-linux-x64",
+  "version": "0.0.0",
+  "description": "Seen CLI native binary for Linux x64 (glibc)",
+  "os": ["linux"],
+  "cpu": ["x64"],
+  "files": ["bin"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzlorz/seen.git"
+  },
+  "license": "MIT"
+}

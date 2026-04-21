@@ -1,0 +1,30 @@
+{
+  "name": "@seen-tui/cli",
+  "version": "0.0.0",
+  "bin": {
+    "seen": "bin/seen.js"
+  },
+  "files": [
+    "bin/",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzlorz/seen.git"
+  },
+  "homepage": "https://github.com/zzlorz/seen#readme",
+  "bugs": {
+    "url": "https://github.com/zzlorz/seen/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
+  "optionalDependencies": {
+    "@seen-tui/cli-darwin-arm64": "0.0.0",
+    "@seen-tui/cli-darwin-x64": "0.0.0",
+    "@seen-tui/cli-linux-arm64": "0.0.0",
+    "@seen-tui/cli-linux-x64": "0.0.0",
+    "@seen-tui/cli-win32-x64": "0.0.0"
+  }
+}

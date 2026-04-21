@@ -1,0 +1,13 @@
+{
+  "name": "@seen-tui/cli-darwin-x64",
+  "version": "0.0.0",
+  "description": "Seen CLI native binary for macOS x64",
+  "os": ["darwin"],
+  "cpu": ["x64"],
+  "files": ["bin"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzlorz/seen.git"
+  },
+  "license": "MIT"
+}
