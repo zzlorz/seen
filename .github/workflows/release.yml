@@ -107,6 +107,7 @@ jobs:
         with:
           node-version: '20'
           registry-url: 'https://registry.npmjs.org'
+          scope: '@seen-tui'
 
       - name: Derive version from tag
         id: version
@@ -143,6 +144,7 @@ jobs:
         with:
           node-version: '20'
           registry-url: 'https://registry.npmjs.org'
+          scope: '@seen-tui'
 
       - name: Derive version from tag
         id: version
