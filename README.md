@@ -59,10 +59,10 @@ cd your-git-repo
 
 ## Keybindings
 
-| **Key**      | **Action**                              |  |  |
-| -------------------- | ----------------------------------------------- | -- | -- |
+| **Key**      | **Action**                              |
+| -------------------- | ----------------------------------------------- |
 | **q, ESC**     | Quit                                          |
-| **1 / 2** | Tab navigation (Files / Search / Git / Graph) |
+| **1 / 2** | Tab navigation (Git / Graph) |
 | **Tab**           | Switch focused panel                          |
 
 
