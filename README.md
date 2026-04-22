@@ -1,7 +1,3 @@
-## Status
-
-**Alpha.** 单进程 Rust 二进制实现 — 无插件，无 IPC。Files, Git 和 Graph 均为原生实现。
-
 # Seen
 
 **A beautiful TUI for your Git workflow.**
@@ -68,4 +64,4 @@ cd your-git-repo
 
 ## Status
 
-**Alpha.** Single-process Rust binary — no plugins, no IPC. Files, Git, and Graph are all host-native.
+**Alpha.** Single-process Rust binary — no plugins, no IPC. Git, and Graph are all host-native.

@@ -1,6 +1,6 @@
 # Seen
 
-**为你的人类 Git 工作流打造的精美 TUI**
+**为你的 Git 工作流打造的精美 TUI**
 
 `seen` 是一个极速、激进且高颜值的 Git 终端用户界面。我们不试图取代 IDE，而是专注于那 10% IDE 变得 Dead Weight 之后，开发者最需要的一件事：**纯粹的代码阅读、状态审查与极速提交。**
 
@@ -58,4 +58,4 @@ cd your-git-repo
 
 ## Status
 
-**Alpha.** 单进程 Rust 二进制实现 — 无插件，无 IPC。Files, Git 和 Graph 均为原生实现。
+**Alpha.** 单进程 Rust 二进制实现 — 无插件，无 IPC。Git 和 Graph 均为原生实现。
